@@ -6,7 +6,7 @@
   they are not intended to be used directly. They are implementation details of
   the actual median function. Only the median function should be imported
 
-## Central Tendancies
+## Central Tendencies
 - Mean, median and mode
 
 ## Dispersion
